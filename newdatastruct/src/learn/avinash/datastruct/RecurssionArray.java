@@ -2,6 +2,12 @@ package learn.avinash.datastruct;
 
 public class RecurssionArray {
 
+    public static void main(String[] args) {
+System.out.println(iteratieFactorial(3));
+        System.out.println(recursiveFactorial(3));
+
+    }
+
 
     public static int iteratieFactorial(int num){
         if(num ==0){
