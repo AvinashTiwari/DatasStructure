@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bf50bb-a287-4f2e-951e-77d5443d5c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learn/avinash/datastruct/MergeSortDescArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learn/avinash/datastruct/RadixSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/avinash/datastruct/InsertionSortChallengeArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,7 +16,7 @@
     <session id="-1112901254">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.106" value="1" />
           <entry key="project.open.time.116" value="1" />
           <entry key="project.open.time.125" value="1" />
@@ -26,13 +25,14 @@
           <entry key="project.open.time.183" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.87" value="1" />
           <entry key="project.open.time.89" value="1" />
           <entry key="project.open.time.90" value="1" />
           <entry key="project.open.time.94" value="1" />
           <entry key="project.open.time.96" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -49,27 +49,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn/avinash/datastruct/BigOArrayNoatition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn/avinash/datastruct/BubbleShortArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -142,11 +133,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn/avinash/datastruct/MergeSortDescArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn/avinash/datastruct/InsertionSortChallengeArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -177,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/learn/avinash/datastruct/CountingSortArray.java" />
         <option value="$PROJECT_DIR$/src/learn/avinash/datastruct/RadixSortArray.java" />
         <option value="$PROJECT_DIR$/src/learn/avinash/datastruct/MergeSortDescArray.java" />
+        <option value="$PROJECT_DIR$/src/learn/avinash/datastruct/InsertionSortChallengeArray.java" />
       </list>
     </option>
   </component>
@@ -200,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,25 +219,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="datastruct" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="newdatastruct" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newdatastruct" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
-              <item name="MergeSortDescArray" type="1a9f42e2:ClassTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537315804587" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537491960318" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -256,9 +250,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSortDescArray">
+  <component name="RunManager" selected="Application.InsertionSortChallengeArray">
     <configuration name="CountingSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learn.avinash.datastruct.CountingSortArray" />
+      <module name="newdatastruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.avinash.datastruct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSortChallengeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.avinash.datastruct.InsertionSortChallengeArray" />
       <module name="newdatastruct" />
       <extension name="coverage">
         <pattern>
@@ -309,33 +316,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.avinash.datastruct.ShellSortArray" />
-      <module name="newdatastruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learn.avinash.datastruct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ShellSortArray" />
       <item itemvalue="Application.RecurssionArray" />
       <item itemvalue="Application.CountingSortArray" />
       <item itemvalue="Application.RadixSortArray" />
       <item itemvalue="Application.MergeSortDescArray" />
+      <item itemvalue="Application.InsertionSortChallengeArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSortChallengeArray" />
         <item itemvalue="Application.MergeSortDescArray" />
         <item itemvalue="Application.RadixSortArray" />
         <item itemvalue="Application.CountingSortArray" />
         <item itemvalue="Application.RecurssionArray" />
-        <item itemvalue="Application.ShellSortArray" />
       </list>
     </recent_temporary>
   </component>
@@ -363,16 +357,17 @@
       <workItem from="1537138255776" duration="315000" />
       <workItem from="1537139525375" duration="30000" />
       <workItem from="1537315386332" duration="337000" />
+      <workItem from="1537491809683" duration="102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7385000" />
+    <option name="totallyTimeSpent" value="7487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30786687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -482,7 +477,14 @@
     <entry file="file://$PROJECT_DIR$/src/learn/avinash/datastruct/MergeSortDescArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/avinash/datastruct/InsertionSortChallengeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
