@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlinrawstringchap5/rawstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlinstreamtemplatechap4/streamtemplatesample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/TestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/TestKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/LocationsKt$readLocationInfo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/LocationsKt$readLocationInfo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/LocationsKt$readLocationInfo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/LocationsKt$readLocationInfo$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/LocationsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/LocationsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/academy/learnprogramming/textadventure/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/equalsKotlinchap3/DeclarationsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/equalsKotlinchap3/DeclarationsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/equalsKotlinchap3/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/equalsKotlinchap3/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotinbasicchap1/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotinbasicchap1/HelloWorldKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/DeclarationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/DeclarationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/EmployeeData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/EmployeeData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/StringManuKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/variablechap2/StringManuKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,61 +16,55 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.105" value="2" />
+          <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.130" value="1" />
           <entry key="project.open.time.135" value="1" />
           <entry key="project.open.time.141" value="1" />
           <entry key="project.open.time.145" value="1" />
           <entry key="project.open.time.172" value="1" />
           <entry key="project.open.time.264" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="4" />
-          <entry key="kt" value="10" />
+          <entry key="kt" value="11" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="10" />
+          <entry key="Kotlin" value="11" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="4" />
-          <entry key="kt" value="989" />
+          <entry key="kt" value="1381" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="989" />
+          <entry key="Kotlin" value="1381" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinstreamtemplatechap4/streamtemplatesample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="22" column="1" selection-start-line="18" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kotlinrawstringchap5/rawstring.kt">
+        <entry file="file://$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="392">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -129,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/equalsKotlinchap3/Declarations.kt" />
         <option value="$PROJECT_DIR$/src/kotlinstreamtemplatechap4/streamtemplatesample.kt" />
         <option value="$PROJECT_DIR$/src/kotlinrawstringchap5/rawstring.kt" />
+        <option value="$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt" />
       </list>
     </option>
   </component>
@@ -152,9 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,12 +150,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540612293903" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540859598501" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
@@ -206,20 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinrawstringchap5.RawstringKt">
-    <configuration name="academy.learnprogramming.textadventure.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotinIntro" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.textadventure.MainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.kotlindatatypechap6.DatatypesKt">
     <configuration name="equalsKotlinchap3.DeclarationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotinIntro" />
       <option name="VM_PARAMETERS" />
@@ -241,6 +208,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="kotinbasicchap1.HelloWorldKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlindatatypechap6.DatatypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotinIntro" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlindatatypechap6.DatatypesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -273,19 +253,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.academy.learnprogramming.textadventure.MainKt" />
       <item itemvalue="Kotlin.kotinbasicchap1.HelloWorldKt" />
       <item itemvalue="Kotlin.equalsKotlinchap3.DeclarationsKt" />
       <item itemvalue="Kotlin.kotlinstreamtemplatechap4.StreamtemplatesampleKt" />
       <item itemvalue="Kotlin.kotlinrawstringchap5.RawstringKt" />
+      <item itemvalue="Kotlin.kotlindatatypechap6.DatatypesKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlindatatypechap6.DatatypesKt" />
         <item itemvalue="Kotlin.kotlinrawstringchap5.RawstringKt" />
         <item itemvalue="Kotlin.kotlinstreamtemplatechap4.StreamtemplatesampleKt" />
         <item itemvalue="Kotlin.equalsKotlinchap3.DeclarationsKt" />
         <item itemvalue="Kotlin.kotinbasicchap1.HelloWorldKt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.textadventure.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -306,16 +286,20 @@
       <workItem from="1540335488210" duration="2294000" />
       <workItem from="1540424448411" duration="1272000" />
       <workItem from="1540606729618" duration="2066000" />
+      <workItem from="1540776384980" duration="409000" />
+      <workItem from="1540777698217" duration="564000" />
+      <workItem from="1540778689522" duration="83000" />
+      <workItem from="1540858418680" duration="1343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10552000" />
+    <option name="totallyTimeSpent" value="12951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,17 +422,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinrawstringchap5/rawstring.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinstreamtemplatechap4/streamtemplatesample.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="374">
           <caret line="22" column="1" selection-start-line="18" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinrawstringchap5/rawstring.kt">
+    <entry file="file://$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="392">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
