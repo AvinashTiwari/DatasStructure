@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinArray7/KotlinArrayOne.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,7 +16,7 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.105" value="2" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.130" value="1" />
@@ -26,45 +26,55 @@
           <entry key="project.open.time.172" value="1" />
           <entry key="project.open.time.264" value="1" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="4" />
-          <entry key="kt" value="11" />
+          <entry key="kt" value="12" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="11" />
+          <entry key="Kotlin" value="12" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="4" />
-          <entry key="kt" value="1381" />
+          <entry key="kt" value="1545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="1381" />
+          <entry key="Kotlin" value="1545" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="409">
+              <caret line="26" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kotlinArray7/KotlinArrayOne.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/kotlinstreamtemplatechap4/streamtemplatesample.kt" />
         <option value="$PROJECT_DIR$/src/kotlinrawstringchap5/rawstring.kt" />
         <option value="$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinArray7/KotlinArrayOne.kt" />
       </list>
     </option>
   </component>
@@ -132,8 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,13 +159,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540859598501" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540947522897" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
@@ -290,16 +301,17 @@
       <workItem from="1540777698217" duration="564000" />
       <workItem from="1540778689522" duration="83000" />
       <workItem from="1540858418680" duration="1343000" />
+      <workItem from="1540945351436" duration="1716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12951000" />
+    <option name="totallyTimeSpent" value="14667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,8 +450,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlindatatypechap6/Datatypes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="409">
+          <caret line="26" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinArray7/KotlinArrayOne.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
