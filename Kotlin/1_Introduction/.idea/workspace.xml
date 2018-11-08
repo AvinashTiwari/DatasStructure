@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/AccessModifieKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/AccessModifieKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/Empyloyee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/Empyloyee.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +17,10 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.105" value="2" />
           <entry key="project.open.time.114" value="1" />
+          <entry key="project.open.time.122" value="1" />
           <entry key="project.open.time.130" value="1" />
           <entry key="project.open.time.135" value="1" />
           <entry key="project.open.time.141" value="1" />
@@ -36,7 +35,8 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.91" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,14 +55,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="65" />
-          <entry key="kt" value="2029" />
+          <entry key="java" value="126" />
+          <entry key="kt" value="2273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="65" />
-          <entry key="Kotlin" value="2029" />
+          <entry key="JAVA" value="126" />
+          <entry key="Kotlin" value="2273" />
         </counts>
       </usages-collector>
     </session>
@@ -81,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="528">
+              <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -90,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="136">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -165,8 +165,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,16 +183,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kotlinAccessModifier8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinAccessModifier8" type="462c0819:PsiDirectoryNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541465690700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541553115790" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
@@ -334,16 +341,18 @@
       <workItem from="1541199290915" duration="2028000" />
       <workItem from="1541364514749" duration="1328000" />
       <workItem from="1541464154644" duration="1599000" />
+      <workItem from="1541551935573" duration="1224000" />
+      <workItem from="1541636030835" duration="1276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21099000" />
+    <option name="totallyTimeSpent" value="23599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30862328" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31770045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,15 +512,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="528">
+          <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
         </state>
       </provider>
     </entry>
