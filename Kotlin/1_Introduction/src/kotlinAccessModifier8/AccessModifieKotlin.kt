@@ -1,6 +1,11 @@
 package kotlinAccessModifier8
 
+val MY_CONSTANT = 100
+
 fun main(args: Array<String>) {
+
+    println(MY_CONSTANT)
+
 val emp =  Empyloyee("Avinash")
     println(emp.firstName)
 
