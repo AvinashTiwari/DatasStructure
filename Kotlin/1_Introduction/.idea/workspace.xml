@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlinAccessModifier8/DataSample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/AccessModifieKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/AccessModifieKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/Empyloyee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/Empyloyee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/EmpyloyeeShortway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/EmpyloyeeShortway.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/EmpyloyeeShortway1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/EmpyloyeeShortway1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/javacode/JavaEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/kotlinAccessModifier8/javacode/JavaEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +16,7 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.105" value="2" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.122" value="1" />
@@ -37,6 +30,7 @@
           <entry key="project.open.time.172" value="1" />
           <entry key="project.open.time.264" value="1" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.72" value="1" />
@@ -44,33 +38,33 @@
           <entry key="project.open.time.85" value="1" />
           <entry key="project.open.time.91" value="1" />
           <entry key="project.open.time.93" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="5" />
-          <entry key="kt" value="15" />
+          <entry key="kt" value="16" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="5" />
-          <entry key="Kotlin" value="15" />
+          <entry key="Kotlin" value="16" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="126" />
-          <entry key="kt" value="2462" />
+          <entry key="kt" value="2629" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="126" />
-          <entry key="Kotlin" value="2462" />
+          <entry key="Kotlin" value="2629" />
         </counts>
       </usages-collector>
     </session>
@@ -95,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/DataSample.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -159,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java" />
         <option value="$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt" />
         <option value="$PROJECT_DIR$/src/kotlinAccessModifier8/DataSample.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt" />
       </list>
     </option>
   </component>
@@ -194,32 +198,19 @@
               <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlinAccessModifier8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlinAccessModifier8" type="462c0819:PsiDirectoryNode" />
-              <item name="javacode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541722559451" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541818006889" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
@@ -249,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinAccessModifier8.DataSampleKt">
+  <component name="RunManager" selected="Kotlin.kotlinFunction10.KotlinFunctionSampleKt">
     <configuration name="kotlinAccessModifier8.AccessModifieKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotinIntro" />
       <option name="VM_PARAMETERS" />
@@ -271,6 +262,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="kotlinAccessModifier8.DataSampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinFunction10.KotlinFunctionSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotinIntro" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinFunction10.KotlinFunctionSampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -302,33 +306,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kotlinstreamtemplatechap4.StreamtemplatesampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotinIntro" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinstreamtemplatechap4.StreamtemplatesampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.kotlinstreamtemplatechap4.StreamtemplatesampleKt" />
       <item itemvalue="Kotlin.kotlinrawstringchap5.RawstringKt" />
       <item itemvalue="Kotlin.kotlindatatypechap6.DatatypesKt" />
       <item itemvalue="Kotlin.kotlinAccessModifier8.AccessModifieKotlinKt" />
       <item itemvalue="Kotlin.kotlinAccessModifier8.DataSampleKt" />
+      <item itemvalue="Kotlin.kotlinFunction10.KotlinFunctionSampleKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlinFunction10.KotlinFunctionSampleKt" />
         <item itemvalue="Kotlin.kotlinAccessModifier8.DataSampleKt" />
         <item itemvalue="Kotlin.kotlinAccessModifier8.AccessModifieKotlinKt" />
         <item itemvalue="Kotlin.kotlindatatypechap6.DatatypesKt" />
         <item itemvalue="Kotlin.kotlinrawstringchap5.RawstringKt" />
-        <item itemvalue="Kotlin.kotlinstreamtemplatechap4.StreamtemplatesampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -363,16 +354,17 @@
       <workItem from="1541636030835" duration="1276000" />
       <workItem from="1541721852263" duration="757000" />
       <workItem from="1541723101494" duration="577000" />
+      <workItem from="1541814520941" duration="2002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24933000" />
+    <option name="totallyTimeSpent" value="26935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32753405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33282906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -548,6 +540,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
