@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlinextensionfunction11/Functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlinextensionfunction11/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,13 +16,14 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.105" value="2" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.122" value="1" />
           <entry key="project.open.time.130" value="1" />
           <entry key="project.open.time.135" value="1" />
           <entry key="project.open.time.141" value="1" />
+          <entry key="project.open.time.144" value="1" />
           <entry key="project.open.time.145" value="1" />
           <entry key="project.open.time.150" value="1" />
           <entry key="project.open.time.160" value="1" />
@@ -41,20 +41,20 @@
           <entry key="project.open.time.91" value="1" />
           <entry key="project.open.time.93" value="1" />
           <entry key="project.open.time.97" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="5" />
-          <entry key="kt" value="18" />
+          <entry key="kt" value="19" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="5" />
-          <entry key="Kotlin" value="18" />
+          <entry key="Kotlin" value="19" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -110,11 +110,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kotlinextensionfunction11/Functions.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -175,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt" />
         <option value="$PROJECT_DIR$/src/kotlinAccessModifier8/DataSample.kt" />
         <option value="$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt" />
       </list>
     </option>
   </component>
@@ -199,7 +209,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,39 +221,34 @@
               <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlinextensionfunction11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541964312148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542067867087" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\javasample" />
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinsample" />
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinInhertiance12" />
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinextensionfunction11" />
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src\equalsKotlinchap3" />
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinsample" />
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src\javasample" />
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinsample" />
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -376,16 +380,17 @@
       <workItem from="1541814520941" duration="2002000" />
       <workItem from="1541892485365" duration="1030000" />
       <workItem from="1541963638481" duration="637000" />
+      <workItem from="1542066248827" duration="1655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28602000" />
+    <option name="totallyTimeSpent" value="30257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34341908" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34871408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,6 +541,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinextensionfunction11/Utils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinNullref8/kotlinNullreferemce.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -557,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -571,17 +576,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinextensionfunction11/Utils.kt">
+    <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinextensionfunction11/Functions.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
