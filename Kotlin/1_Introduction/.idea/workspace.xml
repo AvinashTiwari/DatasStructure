@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinInhertiance12/Printer2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlininterface13/printer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinsingleton14/CompanyCommunications.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinsingleton14/Printer.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +20,7 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.105" value="2" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.122" value="1" />
@@ -28,10 +32,13 @@
           <entry key="project.open.time.150" value="1" />
           <entry key="project.open.time.160" value="1" />
           <entry key="project.open.time.163" value="1" />
+          <entry key="project.open.time.171" value="1" />
           <entry key="project.open.time.172" value="1" />
           <entry key="project.open.time.264" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.68" value="1" />
@@ -41,33 +48,33 @@
           <entry key="project.open.time.91" value="1" />
           <entry key="project.open.time.93" value="1" />
           <entry key="project.open.time.97" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="5" />
-          <entry key="kt" value="19" />
+          <entry key="kt" value="24" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="5" />
-          <entry key="Kotlin" value="19" />
+          <entry key="Kotlin" value="24" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="126" />
-          <entry key="kt" value="2767" />
+          <entry key="kt" value="2769" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="126" />
-          <entry key="Kotlin" value="2767" />
+          <entry key="Kotlin" value="2769" />
         </counts>
       </usages-collector>
     </session>
@@ -75,64 +82,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinNullref8/kotlinNullreferemce.kt">
+        <entry file="file://$PROJECT_DIR$/src/kotlinsingleton14/CompanyCommunications.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/AccessModifieKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/DataSample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinextensionfunction11/Functions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt">
+        <entry file="file://$PROJECT_DIR$/src/kotlinsingleton14/Printer.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -185,6 +147,10 @@
         <option value="$PROJECT_DIR$/src/kotlinAccessModifier8/DataSample.kt" />
         <option value="$PROJECT_DIR$/src/kotlinFunction10/KotlinFunctionSample.kt" />
         <option value="$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinInhertiance12/Printer2.kt" />
+        <option value="$PROJECT_DIR$/src/kotlininterface13/Printer.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinsingleton14/CompanyCommunications.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinsingleton14/Printer.kt" />
       </list>
     </option>
   </component>
@@ -208,7 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,34 +186,48 @@
               <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinsingleton14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinsingleton14" type="462c0819:PsiDirectoryNode" />
+              <item name="Printer.kt" type="24436e51:KtFileTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542067867087" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542384407879" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinInhertiance12" />
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinextensionfunction11" />
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\equalsKotlinchap3" />
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinsample" />
-      <recent name="L:\DataStructre\Kotlin\1_Introduction\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src\javasample" />
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinsample" />
       <recent name="L:\DataStructre\Kotlin\1_Introduction\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinsingleton14" />
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlininterface13" />
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinInhertiance12" />
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\kotlinextensionfunction11" />
+      <recent name="L:\DataStructre\Kotlin\1_Introduction\src\equalsKotlinchap3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinFunction10.KotlinFunctionSampleKt">
+  <component name="RunManager" selected="Kotlin.kotlinsingleton14.PrinterKt">
     <configuration name="kotlinAccessModifier8.AccessModifieKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotinIntro" />
       <option name="VM_PARAMETERS" />
@@ -316,33 +295,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kotlinrawstringchap5.RawstringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kotlinsingleton14.PrinterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotinIntro" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinrawstringchap5.RawstringKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlinsingleton14.PrinterKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.kotlinrawstringchap5.RawstringKt" />
       <item itemvalue="Kotlin.kotlindatatypechap6.DatatypesKt" />
       <item itemvalue="Kotlin.kotlinAccessModifier8.AccessModifieKotlinKt" />
       <item itemvalue="Kotlin.kotlinAccessModifier8.DataSampleKt" />
       <item itemvalue="Kotlin.kotlinFunction10.KotlinFunctionSampleKt" />
+      <item itemvalue="Kotlin.kotlinsingleton14.PrinterKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlinsingleton14.PrinterKt" />
         <item itemvalue="Kotlin.kotlinFunction10.KotlinFunctionSampleKt" />
         <item itemvalue="Kotlin.kotlinAccessModifier8.DataSampleKt" />
         <item itemvalue="Kotlin.kotlinAccessModifier8.AccessModifieKotlinKt" />
         <item itemvalue="Kotlin.kotlindatatypechap6.DatatypesKt" />
-        <item itemvalue="Kotlin.kotlinrawstringchap5.RawstringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -381,16 +360,19 @@
       <workItem from="1541892485365" duration="1030000" />
       <workItem from="1541963638481" duration="637000" />
       <workItem from="1542066248827" duration="1655000" />
+      <workItem from="1542148368470" duration="381000" />
+      <workItem from="1542245512626" duration="526000" />
+      <workItem from="1542383772983" duration="690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30257000" />
+    <option name="totallyTimeSpent" value="31854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34871408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36459908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -576,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinextensionfunction11/Functions.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -592,8 +567,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinInhertiance12/Printer.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state>
+          <caret column="27" selection-start-column="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinInhertiance12/Printer2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinAccessModifier8/javacode/JavaEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlininterface13/Printer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinsingleton14/CompanyCommunications.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinsingleton14/Printer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
