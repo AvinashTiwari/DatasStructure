@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7192ee-2888-4511-8edd-d1c2bf593691" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AnotherModule/src/anotherpackage/AnotherModuleFile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlininternal19/AnotherFile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlininternal19/communications/CompanyCommunications.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlininternal19/communications/Imports.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinloop20/Loops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotinIntro/META-INF/KotinIntro.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +17,8 @@
     <session id="-1506640636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="34" />
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.104" value="1" />
           <entry key="project.open.time.105" value="2" />
           <entry key="project.open.time.114" value="1" />
           <entry key="project.open.time.122" value="1" />
@@ -52,101 +51,44 @@
           <entry key="project.open.time.91" value="1" />
           <entry key="project.open.time.93" value="1" />
           <entry key="project.open.time.97" value="1" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="8" />
-          <entry key="kt" value="38" />
+          <entry key="kt" value="39" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="8" />
-          <entry key="Kotlin" value="38" />
+          <entry key="Kotlin" value="39" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="126" />
-          <entry key="kt" value="2985" />
+          <entry key="kt" value="3347" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="126" />
-          <entry key="Kotlin" value="2985" />
+          <entry key="Kotlin" value="3347" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinimport18/CompanyCommunications.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinimport18/anotherpackage/anotherpackage.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kotlinloop20/Loops.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="8" selection-start-line="5" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnotherModule/src/anotherpackage/Anotherfile.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="8" selection-end-column="22" />
-              <folding>
-                <element signature="e#24#98#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnotherModule/src/anotherpackage/AnotherModuleFile.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kotlininternal19/AnotherFile.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlininternal19/communications/Imports.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinimport18/Imports.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -214,6 +156,7 @@
         <option value="$PROJECT_DIR$/AnotherModule/src/anotherpackage/Anotherfile.kt" />
         <option value="$PROJECT_DIR$/AnotherModule/src/anotherpackage/AnotherModuleFile.kt" />
         <option value="$PROJECT_DIR$/src/kotlininternal19/AnotherFile.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinloop20/Loops.kt" />
       </list>
     </option>
   </component>
@@ -237,9 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,67 +195,21 @@
             <path>
               <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
               <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="AnotherModule" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="AnotherModule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="anotherpackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="AnotherModule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="anotherpackage" type="462c0819:PsiDirectoryNode" />
-              <item name="Anotherfile.kt" type="24436e51:KtFileTreeNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="AnotherModule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="anotherpackage" type="462c0819:PsiDirectoryNode" />
-              <item name="AnotherModuleFile.kt" type="24436e51:KtFileTreeNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlininternal19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlininternal19" type="462c0819:PsiDirectoryNode" />
-              <item name="communications" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotinIntro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlininternal19" type="462c0819:PsiDirectoryNode" />
-              <item name="AnotherFile.kt" type="24436e51:KtFileTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543018968518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543102183645" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -349,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.anotherpackage.AnotherfileKt">
+  <component name="RunManager" selected="Kotlin.kotlinloop20.LoopsKt">
     <configuration name="anotherpackage.AnotherfileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AnotherModule" />
       <option name="VM_PARAMETERS" />
@@ -358,19 +252,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="anotherpackage.AnotherfileKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kotlinAccessModifier8.DataSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotinIntro" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinAccessModifier8.DataSampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -402,6 +283,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kotlinloop20.LoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotinIntro" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinloop20.LoopsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="kotlinsingleton14.PrinterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotinIntro" />
       <option name="VM_PARAMETERS" />
@@ -416,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.kotlinAccessModifier8.DataSampleKt" />
       <item itemvalue="Kotlin.kotlinFunction10.KotlinFunctionSampleKt" />
       <item itemvalue="Kotlin.kotlinsingleton14.PrinterKt" />
       <item itemvalue="Kotlin.kotlinimport18.anotherpackage.AnotherpackageKt" />
       <item itemvalue="Kotlin.anotherpackage.AnotherfileKt" />
+      <item itemvalue="Kotlin.kotlinloop20.LoopsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlinloop20.LoopsKt" />
         <item itemvalue="Kotlin.anotherpackage.AnotherfileKt" />
         <item itemvalue="Kotlin.kotlinimport18.anotherpackage.AnotherpackageKt" />
         <item itemvalue="Kotlin.kotlinsingleton14.PrinterKt" />
         <item itemvalue="Kotlin.kotlinFunction10.KotlinFunctionSampleKt" />
-        <item itemvalue="Kotlin.kotlinAccessModifier8.DataSampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -475,16 +369,17 @@
       <workItem from="1542763718747" duration="1185000" />
       <workItem from="1542915368474" duration="726000" />
       <workItem from="1543017867704" duration="1004000" />
+      <workItem from="1543100880713" duration="1589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35992000" />
+    <option name="totallyTimeSpent" value="37581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40090773" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40695915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -502,7 +397,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -789,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinimport18/Imports.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AnotherModule/src/anotherpackage/Anotherfile.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -816,14 +704,28 @@
     <entry file="file://$PROJECT_DIR$/src/kotlininternal19/communications/Imports.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinimport18/Imports.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlininternal19/AnotherFile.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinloop20/Loops.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
